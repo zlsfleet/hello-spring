@@ -1,0 +1,13 @@
+info level
+error level
+warn level
+2020-07-03 15:12:24,704 INFO [com.sanqianxuan.spring.MyTest] -info level
+2020-07-03 15:12:24,704 ERROR [com.sanqianxuan.spring.MyTest] -error level
+2020-07-03 15:12:24,704 WARN [com.sanqianxuan.spring.MyTest] -warn level
+2020-07-03 15:16:52,996 DEBUG [org.springframework.context.support.ClassPathXmlApplicationContext] -Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@33cb5951
+2020-07-03 15:16:53,185 DEBUG [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] -Loaded 1 bean definitions from class path resource [spring-context.xml]
+2020-07-03 15:16:53,215 DEBUG [org.springframework.beans.factory.support.DefaultListableBeanFactory] -Creating shared instance of singleton bean 'userService'
+2020-07-03 15:16:53,246 INFO [com.sanqianxuan.spring.MyTest] -info level
+2020-07-03 15:16:53,246 DEBUG [com.sanqianxuan.spring.MyTest] -debug level
+2020-07-03 15:16:53,246 ERROR [com.sanqianxuan.spring.MyTest] -error level
+2020-07-03 15:16:53,246 WARN [com.sanqianxuan.spring.MyTest] -warn level
